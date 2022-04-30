@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/DaoChen6/Heroku-v2ray",
-  "repository": "https://github.com/DaoChen6/Heroku-v2ray",
+  "website": "https://github.com/kowoneoq/043098",
+  "repository": "https://github.com/kowoneoq/043098",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
